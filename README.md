@@ -1,0 +1,1 @@
+Analyzes network traffic on a machine to check for suspicious connections and potential DDoS attacks.
